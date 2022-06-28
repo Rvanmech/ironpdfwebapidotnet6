@@ -1,0 +1,149 @@
+[2022-06-28 19:50:14] ---------- Debian v11.0 (/app/Default.log) ----------
+[2022-06-28 19:50:14] Using base deployment directory of [AppDomain.CurrentDomain.BaseDirectory] '/app/bin/Debug/net6.0/'
+[2022-06-28 19:50:14] ============================= Attempting to deploy Chrome count: 1 =============================
+[2022-06-28 19:50:14] Attempting deployment for 'Chrome' v2022.6.0.6111 using '/app/bin/Debug/net6.0/runtimes/linux-x64/native'
+[2022-06-28 19:50:14] Successfully located 'IronInterop' at '/app/bin/Debug/net6.0/runtimes/linux-x64/native'
+[2022-06-28 19:50:14] Determining deployment commands for platform 'Debian' v11.0
+[2022-06-28 19:50:14] Using deployment instructions for 'debian' v10
+[2022-06-28 19:50:14] Executing command 'chmod 755 IronCefSubprocess' in '/app/bin/Debug/net6.0/runtimes/linux-x64/native'
+[2022-06-28 19:50:14] 
+[2022-06-28 19:50:14] Attempting to load Unix library '/app/bin/Debug/net6.0/runtimes/linux-x64/native/libcef.so'
+[2022-06-28 19:50:14] Unix library '/app/bin/Debug/net6.0/runtimes/linux-x64/native/libcef.so' load result 139637104982160
+[2022-06-28 19:50:14] Successfully loaded libcef from the file: /app/bin/Debug/net6.0/runtimes/linux-x64/native/libcef.so
+[2022-06-28 19:50:14] Attempting to load Unix library '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronInterop.so'
+[2022-06-28 19:50:14] Unix library '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronInterop.so' load result 139637105298288
+[2022-06-28 19:50:14] Successfully loaded IronInterop from the file: /app/bin/Debug/net6.0/runtimes/linux-x64/native/IronInterop.so
+[2022-06-28 19:50:14] Successfully loaded 'IronInterop' version '2022.6.0.6111' from '/app/bin/Debug/net6.0/runtimes/linux-x64/native'
+[2022-06-28 19:50:14] Successfully deployed 'Chrome' using '/app/bin/Debug/net6.0/runtimes/linux-x64/native'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): ~ Chrome renderer v2022.6.0.6111~
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Debugging enabled for Chrome renderer using log path 'IronSoftware.ChromeRenderer.log'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Creating Cef proxy event handler
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Creating Cef proxy event handler
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Created new lifespan events
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Detected operating system Debian
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Creating Cef proxy
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Created new browser process handler
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Created new load handler
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Created new render handler
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Created new render process handler
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Created new print handler
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Created new dev tools handler
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Created new dev tools registration factory
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Created new lifespan handler
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Creating Cef proxy controller
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Creating Cef interface
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Assigning Cef proxy controller events...
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Assigning Cef proxy controller stream provider...
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Successful first-time initialization of Chrome renderer
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Initializing Cef proxy controller
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Using subprocess path '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Using locales path '/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Using resources path '/app/bin/Debug/net6.0/runtimes/linux-x64/native'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Process os_name: 'debian'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): gpu_mode: '0'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Launching Main process ' --browser-subprocess-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --no-sandbox --lang=en-US --log-file=cef.log --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Process os_name: 'debian'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): gpu_mode: '0'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Launching child process '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --type=zygote --no-zygote-sandbox --no-sandbox --headless --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --lang=en-US --user-data-dir=/tmp --log-file=cef.log --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Process os_name: 'debian'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): gpu_mode: '0'
+[2022-06-28 19:50:15] 19:50:15 (139637666326272): Launching child process '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --type=zygote --no-sandbox --headless --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --lang=en-US --user-data-dir=/tmp --log-file=cef.log --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): Process os_name: 'debian'
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): gpu_mode: '0'
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): Launching child process '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --type=gpu-process --no-sandbox --disable-dev-shm-usage --headless --enable-gpu-service-logging --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --lang=en-US --user-data-dir=/tmp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): Cef initialization succeeded
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): Cef context initialized
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): Waiting for initialization mutex...
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): Registering custom scheme for rendering raw html
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): Successfully registered custom scheme
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): Cef engine initialization complete
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): Successfully waited for initialization mutex
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): Interop 'InitializeSync()' result: 1
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): Process os_name: 'debian'
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): gpu_mode: '0'
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): Generating pdf from html
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): Launching child process '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --ignore-urlfetcher-cert-requests --no-sandbox --disable-dev-shm-usage --ignore-certificate-errors --mute-audio --ignore-certificate-errors --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --lang=en-US --user-data-dir=/tmp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): BROWSER SETTINGS:
+View: 1024x1280
+Enable Javascript: 1
+Username: 
+
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): RENDER SETTINGS:
+Apply Margin to H/F: 0
+Backgrounds: 1, Emulate Screen: 1, Forms: 1, Landscape : 0
+Scale: 100
+Page Size Type: A4
+Custom Page Size: 210x297
+Actual Page Size: 210x297
+Page Margin Type: 3
+Margin Top: 25, Right: 25, Bottom: 25, Left: 25
+Header Html: 
+Footer Html: 
+Javascript: 
+Autosize Screen: 0, PPI: 96
+Title: 
+First Page Number: 1
+Save Path: 
+Render Delay: 0
+Max Header Height: 200, Max Footer Height : 200
+
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): Created new job group 0 for new document
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): Queuing job 0
+[2022-06-28 19:50:16] 19:50:16 (139637666326272): Creating new browser
+[2022-06-28 19:50:16] 19:50:16 (139636757784320): Created browser id 1, 1 exist
+[2022-06-28 19:50:17] 19:50:16 (139636757784320): Processing job for content '<!DOCTYPE html>
+<html>
+  <body>
+    <div>
+      Hello world .NET6!
+    </div>
+  </body>
+</html>
+'
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Process os_name: 'debian'
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): gpu_mode: '0'
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Launching child process '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --type=renderer --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --user-data-dir=/tmp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Process os_name: 'debian'
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): gpu_mode: '0'
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Launching child process '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --type=renderer --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --user-data-dir=/tmp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+[2022-06-28 19:50:17] 19:50:17 (139636724213504): Received resource request from null for http://ironsoftwarescheme.com/ on browser 1 (nav: 1, dl: 0)
+[2022-06-28 19:50:17] 19:50:17 (139636724213504): Resolved resource request using default handler
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Browser process received message: 'OnBrowserCreated'
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Received message from render process with values '' (0)
+[2022-06-28 19:50:17] 19:50:17 (139636724213504): Creating resource handler for custom scheme http using url http://ironsoftwarescheme.com/ on browser 1
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Started loading frame 'http://ironsoftwarescheme.com/' on browser 1
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Loaded frame 'http://ironsoftwarescheme.com/' on browser 1
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Found job 0 in group 0 (of 1 groups)
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Executing dev tools method 'Emulation.setEmulatedMedia' for browser 1
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Received dev tools message on browser 1: '{"id":1,"result":{}}' (size: 20)
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Finished dev tools method on browser 1 (message ID: 1)
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Sending DOM-visit process message for browser 1 (job ID: 0)
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Browser process received message: 'OnDomVisited'
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Received message from render process with values 'AQAAAGgAAAAAAAAAAgAAAEQAAAAQAAAAAAAAAAAAAAABAAAAOAAAAAEAAAANAAAAZAAAAG8AAABjAAAAdQAAAG0AAABlAAAAbgAAAHQAAAB0AAAAaQAAAHQAAABsAAAAZQAAAAEAAAAEAAAAAQAAAAAAAAA=' (156)
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Printing from browser to '/tmp/pdfBTo9A3'
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Received browser print callback for path '/tmp/pdfBTo9A3' (1)
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Print finished for browser 1(success: 1)
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Resolving job for browser 1 with 6285 bytes
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): PdfDocumentFactory created document 0x7effa81f9330 from 6285 bytes
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Resolving job for browser 1 with 1 page document
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): No document title found
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Retrieve Html title: 
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Generating form fields
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Adding default font for form fields
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Initializing forms for document
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Generating bytes for document 0x7effa81f9330
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Successfully generated 6544 bytes for document 0x7effa81f9330
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): PdfDocumentFactory closed document 0x7effa81f9330
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Closing browser 1
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Received dev tools message on browser 1: '{"method":"Inspector.detached","params":{"reason":"Render process gone."}}' (size: 74)
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Destroying browser id 1, 0 remain
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Finished job 0
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Found job 0 in group 0 (of 1 groups)
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): Job group 0 finished
+[2022-06-28 19:50:17] 19:50:17 (139636757784320): CefMessagePumpStd::Quit()
+[2022-06-28 19:50:17] 19:50:17 (139637666326272): PdfDocumentFactory created document 0x7effcc053510 from 6544 bytes
+[2022-06-28 19:50:17] 19:50:17 (139637666326272): Storing new document 0
+[2022-06-28 19:50:18] 19:50:18 (139637666326272): Generating bytes for document 0x7effcc053510
+[2022-06-28 19:50:18] 19:50:18 (139637666326272): Successfully generated 60152 bytes for document 0x7effcc053510
+[2022-06-28 19:50:18] 19:50:18 (139637666326272): PdfDocumentFactory closed document 0x7effcc053510
+[2022-06-28 19:50:18] 19:50:18 (139637666326272): Erasing document 0

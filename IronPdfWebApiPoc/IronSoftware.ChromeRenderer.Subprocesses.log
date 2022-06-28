@@ -1,0 +1,56 @@
+19:50:16 (140315403648576): Entered child process
+19:50:16 (140315403648576): Created new lifespan events
+19:50:16 (140315403648576): Created new browser process handler
+19:50:16 (140315403648576): Created new load handler
+19:50:16 (140315403648576): Created new render handler
+19:50:16 (140315403648576): Created new render process handler
+19:50:16 (140315403648576): Created new print handler
+19:50:16 (140315403648576): Created new dev tools handler
+19:50:16 (140315403648576): Created new dev tools registration factory
+19:50:16 (140315403648576): Created new lifespan handler
+19:50:16 (140530095447616): Entered child process
+19:50:16 (140315403648576): Created proxy
+19:50:16 (140530095447616): Created new lifespan events
+19:50:16 (140530095447616): Created new browser process handler
+19:50:16 (140315403648576): Process os_name: 'undefined'
+19:50:16 (140530095447616): Created new load handler
+19:50:16 (140315403648576): gpu_mode: '0'
+19:50:16 (140530095447616): Created new render handler
+19:50:16 (140530095447616): Created new render process handler
+19:50:16 (140315403648576): Launching Main process '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --type=zygote --no-zygote-sandbox --no-sandbox --headless --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --lang=en-US --user-data-dir=/tmp --log-file=cef.log --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+19:50:16 (140530095447616): Created new print handler
+19:50:16 (140530095447616): Created new dev tools handler
+19:50:16 (140530095447616): Created new dev tools registration factory
+19:50:16 (140530095447616): Created new lifespan handler
+19:50:16 (140530095447616): Created proxy
+19:50:16 (140530095447616): Process os_name: 'undefined'
+19:50:16 (140530095447616): gpu_mode: '0'
+19:50:16 (140530095447616): Launching Main process '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --type=zygote --no-sandbox --headless --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --lang=en-US --user-data-dir=/tmp --log-file=cef.log --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+19:50:17 (140530095447616): WebKit initialized
+19:50:17 (140530095447616): WebKit initialized
+19:50:17 (140530095447616): Browser created using id 1
+19:50:17 (140530095447616): Sending process message from render process to browser process for browser 1
+19:50:17 (140530095447616): Successfully sent message to browser process for browser 1
+19:50:17 (139784485867072): Entered child process
+19:50:17 (139784485867072): Created new lifespan events
+19:50:17 (139784485867072): Created new browser process handler
+19:50:17 (139784485867072): Created new load handler
+19:50:17 (139784485867072): Created new render handler
+19:50:17 (139784485867072): Created new render process handler
+19:50:17 (139784485867072): Created new print handler
+19:50:17 (139784485867072): Created new dev tools handler
+19:50:17 (139784485867072): Created new dev tools registration factory
+19:50:17 (139784485867072): Created new lifespan handler
+19:50:17 (139784485867072): Created proxy
+19:50:17 (139784485867072): Process os_name: 'undefined'
+19:50:17 (139784485867072): gpu_mode: '0'
+19:50:17 (139784485867072): Launching Main process '/app/bin/Debug/net6.0/runtimes/linux-x64/native/IronCefSubprocess --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --ignore-urlfetcher-cert-requests --no-sandbox --disable-dev-shm-usage --ignore-certificate-errors --mute-audio --ignore-certificate-errors --locales-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native/locales --log-severity=verbose --resources-dir-path=/app/bin/Debug/net6.0/runtimes/linux-x64/native --lang=en-US --user-data-dir=/tmp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --log-file=cef.log --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,600428442331926504,4489182072327484083,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests'
+19:50:17 (140530095447616): Context created for browser 1
+19:50:17 (140530095447616): Message received from process 0
+19:50:17 (140530095447616): Visiting DOM of 'http://ironsoftwarescheme.com/'
+19:50:17 (140530095447616): DOM reported document title of 
+19:50:17 (140530095447616): Finished HTML visit, invoking callback
+19:50:17 (140530095447616): DOM-visit finished for browser 1
+19:50:17 (140530095447616): DOM-visit generated base-64 string 'AQAAAGgAAAAAAAAAAgAAAEQAAAAQAAAAAAAAAAAAAAABAAAAOAAAAAEAAAANAAAAZAAAAG8AAABjAAAAdQAAAG0AAABlAAAAbgAAAHQAAAB0AAAAaQAAAHQAAABsAAAAZQAAAAEAAAAEAAAAAQAAAAAAAAA='
+19:50:17 (140530095447616): Sending process message from render process to browser process for browser 1
+19:50:17 (140530095447616): Successfully sent message to browser process for browser 1

@@ -1,0 +1,126 @@
+[0628/165147.197750:VERBOSE1:cdm_registration.cc(189)] Widevine enabled but no library found
+[0628/165147.198673:INFO:cpu_info.cc(53)] Available number of cores: 8
+[0628/165147.199297:VERBOSE1:zygote_main_linux.cc(217)] ZygoteMain: initializing 0 fork delegates
+[0628/165147.214132:VERBOSE1:cdm_registration.cc(189)] Widevine enabled but no library found
+[0628/165147.214937:INFO:cpu_info.cc(53)] Available number of cores: 8
+[0628/165147.215565:VERBOSE1:zygote_main_linux.cc(217)] ZygoteMain: initializing 0 fork delegates
+[0628/165147.221705:VERBOSE1:device_data_manager_x11.cc(234)] X Input extension not available
+[0628/165147.223732:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7f4100027290: set chrome proxy config service to 0x7f410003e740
+[0628/165147.224781:VERBOSE1:cdm_registration.cc(189)] Widevine enabled but no library found
+[0628/165147.242644:VERBOSE1:webrtc_internals.cc(118)] Could not get the download directory.
+[0628/165147.243575:VERBOSE1:media_stream_manager.cc(915)] MSM::InitializeMaybeAsync([this=0x7f410002bcc0])
+[0628/165147.243641:VERBOSE1:display_util.cc(54)] Smaller than minimum display size
+[0628/165147.244168:VERBOSE1:media_stream_manager.cc(915)] MDM::MediaDevicesManager()
+[0628/165147.245372:VERBOSE1:media_stream_manager.cc(915)] MSM::MediaStreamManager([this=0x7f410002bcc0]))
+[0628/165147.248330:VERBOSE1:first_party_sets_handler_impl.cc(168)] Empty path. Failed loading serialized First-Party Sets file.
+[0628/165147.248351:VERBOSE1:device_data_manager_x11.cc(234)] X Input extension not available
+[0628/165147.259815:VERBOSE1:va_stubs.cc(734)] dlopen(libva.so.2) failed.
+[0628/165147.260872:VERBOSE1:va_stubs.cc(735)] dlerror() says:
+libva.so.2: cannot open shared object file: No such file or directory
+[0628/165147.262069:ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0628/165147.305749:VERBOSE1:key_storage_util_linux.cc(54)] Password storage detected desktop environment: (unknown)
+[0628/165147.306483:VERBOSE1:key_storage_linux.cc(123)] Selected backend for OSCrypt: BASIC_TEXT
+[0628/165147.310256:VERBOSE1:key_storage_linux.cc(143)] OSCrypt did not initialize a backend.
+[0628/165147.362542:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7f4100176a10: set chrome proxy config service to 0x7f41000c7fb0
+[0628/165147.509488:VERBOSE1:media_stream_manager.cc(915)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0628/165147.923327:VERBOSE1:script_context.cc(203)] Created context:
+  extension id:           (none)
+  frame:                  0x2e3d0028ce08
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0628/165147.924997:VERBOSE1:script_context.cc(203)] Created context:
+  extension id:           (none)
+  frame:                  (nil)
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0628/165147.926309:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
+[0628/165148.850132:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironsoftwarescheme.com/", 0x2e3d00b54538:LayoutNGBlockFlow IMG class='stub_brand' moved from 576,1253.05 200x26 to 572.766,1253.05 203.234x21 (visible from 576,1253 200x26 to 573,1253 203x21)
+[0628/165148.851939:VERBOSE1:layout_shift_tracker.cc(535)] in "http://ironsoftwarescheme.com/", viewport was 0.407504% impacted with distance fraction 0.00252686 and subframe weighting factor 1
+[0628/165148.853093:VERBOSE1:layout_shift_tracker.cc(614)] in "http://ironsoftwarescheme.com/", layout shift of 1.0297e-05 reported; cumulative score is 1.0297e-05
+[0628/165517.956202:VERBOSE1:cdm_registration.cc(189)] Widevine enabled but no library found
+[0628/165517.957301:INFO:cpu_info.cc(53)] Available number of cores: 8
+[0628/165517.958085:VERBOSE1:zygote_main_linux.cc(217)] ZygoteMain: initializing 0 fork delegates
+[0628/165517.974951:VERBOSE1:cdm_registration.cc(189)] Widevine enabled but no library found
+[0628/165517.975750:INFO:cpu_info.cc(53)] Available number of cores: 8
+[0628/165517.976441:VERBOSE1:zygote_main_linux.cc(217)] ZygoteMain: initializing 0 fork delegates
+[0628/165517.982866:VERBOSE1:device_data_manager_x11.cc(234)] X Input extension not available
+[0628/165517.984876:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7fc31c027270: set chrome proxy config service to 0x7fc31c03e720
+[0628/165517.985939:VERBOSE1:cdm_registration.cc(189)] Widevine enabled but no library found
+[0628/165518.004509:VERBOSE1:webrtc_internals.cc(118)] Could not get the download directory.
+[0628/165518.005519:VERBOSE1:media_stream_manager.cc(915)] MSM::InitializeMaybeAsync([this=0x7fc31c02bca0])
+[0628/165518.005575:VERBOSE1:display_util.cc(54)] Smaller than minimum display size
+[0628/165518.008132:VERBOSE1:media_stream_manager.cc(915)] MDM::MediaDevicesManager()
+[0628/165518.009780:VERBOSE1:media_stream_manager.cc(915)] MSM::MediaStreamManager([this=0x7fc31c02bca0]))
+[0628/165518.007603:VERBOSE1:device_data_manager_x11.cc(234)] X Input extension not available
+[0628/165518.012578:VERBOSE1:first_party_sets_handler_impl.cc(168)] Empty path. Failed loading serialized First-Party Sets file.
+[0628/165518.017839:VERBOSE1:va_stubs.cc(734)] dlopen(libva.so.2) failed.
+[0628/165518.018659:VERBOSE1:va_stubs.cc(735)] dlerror() says:
+libva.so.2: cannot open shared object file: No such file or directory
+[0628/165518.019641:ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0628/165518.087442:VERBOSE1:key_storage_util_linux.cc(54)] Password storage detected desktop environment: (unknown)
+[0628/165518.090884:VERBOSE1:key_storage_linux.cc(123)] Selected backend for OSCrypt: BASIC_TEXT
+[0628/165518.091840:VERBOSE1:key_storage_linux.cc(143)] OSCrypt did not initialize a backend.
+[0628/165518.140364:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7fc31c1766d0: set chrome proxy config service to 0x7fc31c0c7a10
+[0628/165518.302897:VERBOSE1:media_stream_manager.cc(915)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0628/165518.687251:VERBOSE1:script_context.cc(203)] Created context:
+  extension id:           (none)
+  frame:                  0x3f480028ce08
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0628/165518.688751:VERBOSE1:script_context.cc(203)] Created context:
+  extension id:           (none)
+  frame:                  (nil)
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0628/165518.689491:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
+[0628/165519.772645:VERBOSE1:layout_shift_tracker.cc(353)] in "http://ironsoftwarescheme.com/", 0x3f4800b54538:LayoutNGBlockFlow IMG class='stub_brand' moved from 576,1253.05 200x26 to 572.766,1253.05 203.234x21 (visible from 576,1253 200x26 to 573,1253 203x21)
+[0628/165519.773736:VERBOSE1:layout_shift_tracker.cc(535)] in "http://ironsoftwarescheme.com/", viewport was 0.407504% impacted with distance fraction 0.00252686 and subframe weighting factor 1
+[0628/165519.774421:VERBOSE1:layout_shift_tracker.cc(614)] in "http://ironsoftwarescheme.com/", layout shift of 1.0297e-05 reported; cumulative score is 1.0297e-05
+[0628/195016.477599:VERBOSE1:cdm_registration.cc(189)] Widevine enabled but no library found
+[0628/195016.483779:INFO:cpu_info.cc(53)] Available number of cores: 8
+[0628/195016.486363:VERBOSE1:zygote_main_linux.cc(217)] ZygoteMain: initializing 0 fork delegates
+[0628/195016.503653:VERBOSE1:cdm_registration.cc(189)] Widevine enabled but no library found
+[0628/195016.504402:INFO:cpu_info.cc(53)] Available number of cores: 8
+[0628/195016.504966:VERBOSE1:zygote_main_linux.cc(217)] ZygoteMain: initializing 0 fork delegates
+[0628/195016.593936:VERBOSE1:device_data_manager_x11.cc(234)] X Input extension not available
+[0628/195016.648040:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7effa8027520: set chrome proxy config service to 0x7effa803e700
+[0628/195016.687208:VERBOSE1:cdm_registration.cc(189)] Widevine enabled but no library found
+[0628/195016.741839:VERBOSE1:device_data_manager_x11.cc(234)] X Input extension not available
+[0628/195016.742708:VERBOSE1:webrtc_internals.cc(118)] Could not get the download directory.
+[0628/195016.748782:VERBOSE1:media_stream_manager.cc(915)] MSM::InitializeMaybeAsync([this=0x7effa802bc80])
+[0628/195016.749312:VERBOSE1:media_stream_manager.cc(915)] MDM::MediaDevicesManager()
+[0628/195016.750160:VERBOSE1:media_stream_manager.cc(915)] MSM::MediaStreamManager([this=0x7effa802bc80]))
+[0628/195016.752258:VERBOSE1:va_stubs.cc(734)] dlopen(libva.so.2) failed.
+[0628/195016.753664:VERBOSE1:display_util.cc(54)] Smaller than minimum display size
+[0628/195016.754182:VERBOSE1:va_stubs.cc(735)] dlerror() says:
+libva.so.2: cannot open shared object file: No such file or directory
+[0628/195016.757052:ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0628/195016.828651:VERBOSE1:first_party_sets_handler_impl.cc(168)] Empty path. Failed loading serialized First-Party Sets file.
+[0628/195016.912358:VERBOSE1:key_storage_util_linux.cc(54)] Password storage detected desktop environment: (unknown)
+[0628/195016.913170:VERBOSE1:key_storage_linux.cc(123)] Selected backend for OSCrypt: BASIC_TEXT
+[0628/195016.913964:VERBOSE1:key_storage_linux.cc(143)] OSCrypt did not initialize a backend.
+[0628/195016.975082:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7effa8176050: set chrome proxy config service to 0x7effa8149670
+[0628/195017.415402:VERBOSE1:media_stream_manager.cc(915)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0628/195017.607943:VERBOSE1:script_context.cc(203)] Created context:
+  extension id:           (none)
+  frame:                  0x20030028ce08
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0628/195017.609312:VERBOSE1:script_context.cc(203)] Created context:
+  extension id:           (none)
+  frame:                  (nil)
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0628/195017.610209:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1

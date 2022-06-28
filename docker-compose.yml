@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ironpdfwebapidotnet6poc:
+    image: ${DOCKER_REGISTRY-}ironpdfwebapidotnet6poc
+    build:
+      context: .
+      dockerfile: IronPdfWebApiPoc/Dockerfile
