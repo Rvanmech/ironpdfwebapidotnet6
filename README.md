@@ -1,6 +1,7 @@
 ## IronPDF .NET 6 Demo WebApp
 
 Creating repo to help illustrate problem of subsequent runs of IronPDF in .NET6 Debian 11 shutting down during rendering PDF.
+Edit: This turned out to only be a problem of running the debugger attached to the app. It works fine when you run the app with a regular docker-compose run.
 
 ## How to run the app in Docker:
 
