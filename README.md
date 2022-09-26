@@ -23,3 +23,5 @@ curl -X 'GET' \
 Note: The API method will work the first time and create a PDF, but on all subsequent runs, the application will shutdown as soon as the Renderer.RenderHtmlAsPdf(...) method is invoked.
 
 The issue is the same as this one reported in stackoverflow: https://stackoverflow.com/questions/72392631/c-sharp-ironpdf-shuts-down-net-6-web-api-under-linux-docker
+
+Edit: This turns out to some interaction with the debugger attached, not an actual issue if you run the code.
